@@ -8,7 +8,7 @@ To use the script, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/Hotmansifu/AutomatedEmailSender.git
+  - git clone https://github.com/Hotmansifu/AutomatedEmailSender.git
 
 2. Open the `main.py` file in a text editor.
 
